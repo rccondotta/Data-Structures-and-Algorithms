@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 
-This repository outlines data structures and algorithms in C++ and Python for:
+This repository outlines data structures and algorithms in C, C++ and Python for:
 
 Data Structures
 * Arrays
