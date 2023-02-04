@@ -15,4 +15,3 @@ Algorithms
 * Recursion
 * Sorting
 * Searching, BFS, DFS
-* Dynamic Programming
